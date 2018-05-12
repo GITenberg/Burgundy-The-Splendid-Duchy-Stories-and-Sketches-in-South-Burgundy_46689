@@ -1,9 +1,13 @@
 _repo: Burgundy-The-Splendid-Duchy-Stories-and-Sketches-in-South-Burgundy_46689
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Nash, Marjorie
     gutenberg_agent_id: '43903'
     url: http://www.gutenberg.org/2009/agents/43903
+covers:
+- cover_type: archival
+  image_path: 46689-h/images/i_front_cover.jpg
 creator:
   author:
     agent_name: Allen, P. S. (Percy Stafford)
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '2724'
     url: http://www.gutenberg.org/2009/agents/2724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46689#Burgundy-The-Splendid-Duchy-Stories-and-Sketches-in-South-Burgundy
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
